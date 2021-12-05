@@ -1,16 +1,101 @@
 ,Job Title,Salary Estimate,Company Name,Rating,Location,Size,Founded,Type of ownership,Industry,Sector,Revenue
 0,Data Scientist I,Employer Provided Salary:$102K - $148K,Indeed,4.3,Remote,10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD)
-1,University Grad Data Scientist,$97K - $186K (Glassdoor est.),Pinterest,4.2,"San Francisco, CA",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD)
-2,Data Scientist - Entry Level,$69K - $115K (Glassdoor est.),JPL/NASA,4.5,"Pasadena, CA",5001 to 10000 Employees,1936,Nonprofit Organization,Federal Agencies,Government,Unknown / Non-Applicable
-3,Data Scientist,$70K - $112K (Glassdoor est.),Booz Allen Hamilton,4.2,"Norfolk, VA",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
-4,"Data Scientist, University Graduate - 2022 Start",$56K - $132K (Glassdoor est.),TikTok,-1,"Los Angeles, CA",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
-5,"Data Scientist, Game Analytics & Strategy",$80K - $156K (Glassdoor est.),the NBA,3.9,"New York, NY",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable
-6,Data Scientist,$103K - $200K (Glassdoor est.),Microsoft,4.4,"Redmond, WA",10000+ Employees,1975,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+1,Data Scientist - Entry Level,$69K - $115K (Glassdoor est.),JPL/NASA,4.5,"Pasadena, CA",5001 to 10000 Employees,1936,Nonprofit Organization,Federal Agencies,Government,Unknown / Non-Applicable
+2,University Grad Data Scientist,$97K - $186K (Glassdoor est.),Pinterest,4.2,"San Francisco, CA",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD)
+3,"Data Scientist, University Graduate - 2022 Start",$56K - $132K (Glassdoor est.),TikTok,-1,"Los Angeles, CA",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+4,"Data Scientist, Game Analytics & Strategy",$80K - $156K (Glassdoor est.),the NBA,3.9,"New York, NY",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable
+5,Data Scientist,$103K - $200K (Glassdoor est.),Microsoft,4.4,"Redmond, WA",10000+ Employees,1975,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+6,Data Scientist,$70K - $112K (Glassdoor est.),Booz Allen Hamilton,4.2,"Norfolk, VA",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
 7,Sr Data Scientist,$111K - $244K (Glassdoor est.),Netflix,4.2,"Los Gatos, CA",5001 to 10000 Employees,1997,Company - Public,Internet,Information Technology,$5 to $10 billion (USD)
 8,"Data Scientist, Operations Data Science",Employer Provided Salary:$95K,Google,-1,"Mountain View, CA",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD)
 9,Data Scientist Analyst,$68K - $133K (Glassdoor est.),MARS,4.2,"Newark, NJ",10000+ Employees,1911,Company - Private,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD)
-10,Data Scientist,$96K - $180K (Glassdoor est.),"Amazon Web Services, Inc.",3.7,"Seattle, WA",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
-11,Sr Data Scientist,$92K - $187K (Glassdoor est.),Disney Streaming,3.3,"New York, NY",501 to 1000 Employees,2018,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+10,Sr Data Scientist,$92K - $187K (Glassdoor est.),Disney Streaming,3.3,"New York, NY",501 to 1000 Employees,2018,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+11,Data Scientist,$96K - $180K (Glassdoor est.),"Amazon Web Services, Inc.",3.7,"Seattle, WA",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
 12,Data Scientist,Employer Provided Salary:$100K,Patrick J McGovern Foundation,-1,Remote,-1,-1,-1,-1,-1,-1
 13,Senior Data Scientist,Employer Provided Salary:$100K - $130K,Aignyte,-1,Remote,-1,-1,-1,-1,-1,-1
 14,Junior Data Scientist,Employer Provided Salary:$40K - $75K,"Arbor Research & Trading, LLC",-1,"Lake Barrington, Lake, IL",-1,-1,-1,-1,-1,-1
+15,Data Analyst – Data Entry,-1,Juristat,4.6,Remote,,,Company - Private,,,Unknown / Non-Applicable
+16,Data Scientist,-1,Health Catalyst,4.4,Remote,1001 to 5000 Employees,2008,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD)
+17,Senior Data Scientist,$125K - $198K (Glassdoor est.),NVIDIA,4.6,"Santa Clara, CA",10000+ Employees,1993,Company - Public,Computer Hardware & Software,Information Technology,
+18,Data Scientist,Employer Provided Salary:$84K - $160K,DojoMojo,-1,"New York, NY",-1,-1,-1,-1,-1,-1
+19,REMOTE - Data Scientist,$64K - $113K (Glassdoor est.),Labcorp,-1,"Westborough, MA",10000+ Employees,1995,Company - Public,Research & Development,Business Services,$10+ billion (USD)
+20,Associate Data Scientist,$84K - $155K (Glassdoor est.),Gap Inc.,3.7,"San Francisco, CA",10000+ Employees,1969,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD)
+21,Data Scientist,$84K - $167K (Glassdoor est.),Upgrade,4.0,"San Francisco, CA",201 to 500 Employees,2016,Company - Private,Lending,Finance,Less than $1 million (USD)
+22,Data Scientist,Employer Provided Salary:$136K,Spanidea Systemms,3.9,"San Francisco, CA",501 to 1000 Employees,2011,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD)
+23,Data Scientist,$73K - $125K (Glassdoor est.),The Coca-Cola Company,4.0,"Plano, TX",10000+ Employees,1886,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD)
+24,Data Scientist,$69K - $121K (Glassdoor est.),Trissential,3.8,"Michigan, ND",201 to 500 Employees,2003,Subsidiary or Business Segment,Consulting,Business Services,$25 to $50 million (USD)
+25,Data Scientist,Employer Provided Salary:$60 - $70 Per Hour,Eminence Consulting Services,-1,Remote,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable
+26,Data Scientist,-1,Facebook App,-1,"Menlo Park, CA",-1,-1,-1,-1,-1,-1
+27,Data Scientist,Employer Provided Salary:$78K - $103K,Ovintiv,3.3,"The Woodlands, TX",1001 to 5000 Employees,2002,Company - Public,Oil & Gas Exploration & Production,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable
+28,Data Scientist,Employer Provided Salary:$104K - $159K,National Security Agency,-1,"Fort Meade, MD",Unknown,-1,Government,Federal Agencies,Government,Unknown / Non-Applicable
+29,Data Scientist - Remote,$73K - $152K (Glassdoor est.),Harley-Davidson,3.4,"Chicago, IL",5001 to 10000 Employees,1903,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$2 to $5 billion (USD)
+30,Data Scientist,$84K - $159K (Glassdoor est.),Procter & Gamble,4.2,"Cincinnati, OH",10000+ Employees,1837,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD)
+31,Data Scientist,$88K - $173K (Glassdoor est.),RAPP,-1,"San Francisco, CA",501 to 1000 Employees,1965,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+32,JR. DATA SCIENTIST,$70K - $133K (Glassdoor est.),ViacomCBS,-1,"New York, NY",10000+ Employees,2019,Company - Public,Motion Picture Production & Distribution,Media,$10+ billion (USD)
+33,"Data Scientist, Junior",$66K - $137K (Glassdoor est.),Booz Allen Hamilton,4.2,"New York, NY",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+34,"Data Scientist, Creator Business Analysis",$108K - $208K (Glassdoor est.),Spotify,4.2,"New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable
+35,"Data Scientist, Core Product",$75K - $161K (Glassdoor est.),Airtable,4.6,"San Francisco, CA",51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+36,Data Scientist,$80K - $158K (Glassdoor est.),Engine No. 1,4.0,"San Francisco, CA",Unknown,-1,Government,Municipal Governments,Government,Unknown / Non-Applicable
+37,Jr. Data Scientist,$74K - $127K (Glassdoor est.),Deloitte,4.0,"Falls Church, VA",10000+ Employees,1850,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD)
+38,Data Scientist,$92K - $176K (Glassdoor est.),"A9.com, Inc.",3.7,"New York, NY",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+39,Data Scientist,$107K - $205K (Glassdoor est.),CyberCube,5.0,"San Francisco, CA",51 to 200 Employees,-1,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+40,"Data Scientist I, Product Analytics",$99K - $179K (Glassdoor est.),Tinder,-1,"San Francisco, CA",201 to 500 Employees,2012,Company - Public,Internet,Information Technology,Unknown / Non-Applicable
+41,Data Scientist,$75K - $158K (Glassdoor est.),CANDY,5.0,"New York, NY",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable
+42,Data Scientist (All Levels),-1,Stori Card - US,4.7,Virginia,,2018,Company - Private,Banks & Credit Unions,Finance,Unknown / Non-Applicable
+43,"Data Scientist, Revenue",$86K - $171K (Glassdoor est.),Notion,5.0,"San Francisco, CA",201 to 500 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+44,Ecom Fraud Data Scientist,$60K - $141K (Glassdoor est.),GameStop,2.9,"Grapevine, TX",10000+ Employees,2000,Company - Public,Toy & Hobby Stores,Retail,$5 to $10 billion (USD)
+45,Data Scientist,$71K - $133K (Glassdoor est.),Camping World,-1,"Lincolnshire, IL",10000+ Employees,,Company - Public,,Retail,$2 to $5 billion (USD)
+46,Citizen Data Scientist - Remote,$69K - $138K (Glassdoor est.),Henkel,4.3,"New York, NY",10000+ Employees,1876,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD)
+47,Climate Data Scientist,$79K - $157K (Glassdoor est.),ClimateAI,5.0,"San Francisco, CA",1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable
+48,Data Scientist,$90K - $153K (Glassdoor est.),SAP,4.5,"Bellevue, WA",10000+ Employees,1972,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+49,"Data Scientist, Game Analytics",$90K - $170K (Glassdoor est.),Niantic,3.7,"San Francisco, CA",501 to 1000 Employees,2011,Company - Private,Video Games,Media,Unknown / Non-Applicable
+50,Data Scientist,$92K - $158K (Glassdoor est.),UKG (Ultimate Kronos Group),4.1,"San Francisco, CA",5001 to 10000 Employees,1977,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (USD)
+51,Data Scientist,-1,Agile Onboarding,-1,Remote,1 to 50 Employees,-1,Company - Public,-1,-1,Unknown / Non-Applicable
+52,Statistician/Data Scientist,$73K - $133K (Glassdoor est.),Pfizer,4.2,"Saint Louis, MO",10000+ Employees,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+53,DATA SCIENTIST,-1,University of Wisconsin–Madison,4.9,"Madison, WI",51 to 200 Employees,-1,Company - Public,-1,-1,Unknown / Non-Applicable
+54,Data Scientist,$82K - $147K (Glassdoor est.),FocusKPI Inc.,3.4,"San Francisco, CA",51 to 200 Employees,-1,Company - Private,Advertising & Marketing,Business Services,Less than $1 million (USD)
+55,Analyst-Data Science,$74K - $153K (Glassdoor est.),Amex,4.2,"New York, NY",10000+ Employees,1850,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD)
+56,"Data Scientist, Apple Pay Analytics -",-1,Apple,4.3,"Cupertino, CA",10000+ Employees,1976,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+57,"Senior Data Scientist, Core Experience",$106K - $210K (Glassdoor est.),Spotify,4.2,"New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable
+58,Data Scientist,$64K - $122K (Glassdoor est.),Electronic Arts,4.1,"Orlando, FL",5001 to 10000 Employees,1982,Company - Public,Video Games,Media,$2 to $5 billion (USD)
+59,Data scientist,$104K - $205K (Glassdoor est.),PayPal,4.1,"San Jose, CA",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD)
+60,Data Scientist,$71K - $133K (Glassdoor est.),Camping World,-1,"Lincolnshire, IL",10000+ Employees,1966,Company - Public,Sporting Goods Stores,Retail,$2 to $5 billion (USD)
+61,Data Scientist,$88K - $173K (Glassdoor est.),RAPP,-1,"San Francisco, CA",501 to 1000 Employees,1965,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+62,"Senior Data Scientist, Core Experience",$106K - $210K (Glassdoor est.),Spotify,4.2,"New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable
+63,"Data Scientist, Junior",$66K - $137K (Glassdoor est.),Booz Allen Hamilton,4.2,"New York, NY",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+64,"Data Scientist, Core Product",$75K - $161K (Glassdoor est.),Airtable,4.6,"San Francisco, CA",51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+65,Ecom Fraud Data Scientist,$60K - $141K (Glassdoor est.),GameStop,2.9,"Grapevine, TX",10000+ Employees,2000,Company - Public,Toy & Hobby Stores,Retail,$5 to $10 billion (USD)
+66,"Data Scientist I, Product Analytics",$99K - $179K (Glassdoor est.),Tinder,-1,"San Francisco, CA",201 to 500 Employees,2012,Company - Public,Internet,Information Technology,Unknown / Non-Applicable
+67,Data Scientist (All Levels),-1,Stori Card - US,4.7,Virginia,51 to 200 Employees,2018,Company - Private,Banks & Credit Unions,Finance,Unknown / Non-Applicable
+68,Data Scientist,$90K - $153K (Glassdoor est.),SAP,4.5,"Bellevue, WA",10000+ Employees,1972,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+69,Data Scientist (All Levels),$85K - $167K (Glassdoor est.),Convoy,3.8,"Seattle, WA",501 to 1000 Employees,2015,Company - Private,Trucking,Transportation & Logistics,Unknown / Non-Applicable
+70,Data Scientist,$80K - $158K (Glassdoor est.),Engine No. 1,4.0,"San Francisco, CA",Unknown,-1,Government,Municipal Governments,Government,Unknown / Non-Applicable
+71,"Data Scientist, Game Analytics",$90K - $170K (Glassdoor est.),Niantic,3.7,"San Francisco, CA",501 to 1000 Employees,2011,Company - Private,Video Games,,Unknown / Non-Applicable
+72,"Data Scientist 1, People Analytics (remote position)",$62K - $124K (Glassdoor est.),Nordstrom Inc,3.7,"Seattle, WA",10000+ Employees,1901,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD)
+73,"Data Scientist, University Graduate - 2022 Start",$82K - $173K (Glassdoor est.),TikTok,-1,"Mountain View, CA",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+74,Analyst-Data Science,$74K - $153K (Glassdoor est.),Amex,4.2,"New York, NY",10000+ Employees,1850,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD)
+75,Statistician/Data Scientist,$79K - $132K (Glassdoor est.),Pfizer,4.2,"Groton, CT",10000+ Employees,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+76,"Data Scientist, Revenue",$86K - $171K (Glassdoor est.),Notion,5.0,"San Francisco, CA",201 to 500 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+77,Product Analysis Data Scientist,-1,Apple,4.3,"Austin, TX",10000+ Employees,1976,Company - Public,Computer Hardware & Software,Information Technology,
+78,Junior Data Scientist,-1,MGM Resorts International,3.6,Nevada,10000+ Employees,2001,,"Hotels, Motels, & Resorts",Travel & Tourism,$10+ billion (USD)
+79,Data Analytics Scientist,-1,Honda Dev. and Mfg. of Am LLC,-1,"Marysville, OH",-1,-1,-1,-1,-1,-1
+80,Environmental Data Scientist/Analytics,$63K - $117K (Glassdoor est.),Abt Associates,3.5,"Rockville, MD",1001 to 5000 Employees,1965,Company - Private,Research & Development,Business Services,$500 million to $1 billion (USD)
+81,Data Scientist,$107K - $205K (Glassdoor est.),CyberCube,5.0,"San Francisco, CA",51 to 200 Employees,-1,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+82,Data Scientist II - Algorithmic Justice Specialist,Employer Provided Salary:$116K,ACLU,3.9,"New York, NY",201 to 500 Employees,1920,Nonprofit Organization,Membership Organizations,Business Services,$50 to $100 million (USD)
+83,"Data Scientist, AI",-1,AstraZeneca,4.2,"Gaithersburg, MD",10000+ Employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+84,Data Scientist-Operations Research,$59K - $126K (Glassdoor est.),E. & J. Gallo Winery,4.3,"Modesto, CA",5001 to 10000 Employees,1933,Company - Private,Food & Beverage Manufacturing,Manufacturing,$2 to $5 billion (USD)
+85,Sr. Data Scientist,$79K - $141K (Glassdoor est.),TARGET,3.7,"Minneapolis, MN",10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail,$10+ billion (USD)
+86,Data Scientist,$88K - $148K (Glassdoor est.),Alaska Airlines,4.1,"Seattle, WA",10000+ Employees,1932,Company - Public,Airlines,Travel & Tourism,$5 to $10 billion (USD)
+87,Data Scientist - Fraud Analytics (All Levels),$59K - $124K (Glassdoor est.),99,3.9,"Mountain View, CA",501 to 1000 Employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+88,Operations Research Data Scientist,$75K - $156K (Glassdoor est.),Delta,4.4,"Atlanta, GA",10000+ Employees,1928,Company - Public,Airlines,Travel & Tourism,$10+ billion (USD)
+89,Data Scientist,$81K - $140K (Glassdoor est.),PayPal,4.1,"Omaha, NE",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD)
+90,"Data Scientist 1, People Analytics (remote position)",$62K - $124K (Glassdoor est.),Nordstrom Inc,3.7,"Seattle, WA",10000+ Employees,1901,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD)
+91,"Senior Data Scientist, Core Experience",$106K - $210K (Glassdoor est.),Spotify,4.2,"New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable
+92,"Data Scientist, Junior",$66K - $137K (Glassdoor est.),Booz Allen Hamilton,4.2,"New York, NY",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+93,Data Scientist,$88K - $173K (Glassdoor est.),RAPP,-1,"San Francisco, CA",501 to 1000 Employees,1965,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+94,Ecom Fraud Data Scientist,$60K - $141K (Glassdoor est.),GameStop,2.9,"Grapevine, TX",10000+ Employees,2000,Company - Public,Toy & Hobby Stores,Retail,$5 to $10 billion (USD)
+95,"Data Scientist, Core Product",$75K - $161K (Glassdoor est.),Airtable,4.6,"San Francisco, CA",51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+96,Data Scientist II - Algorithmic Justice Specialist,Employer Provided Salary:$116K,ACLU,3.9,"New York, NY",201 to 500 Employees,1920,Nonprofit Organization,Membership Organizations,Business Services,$50 to $100 million (USD)
+97,"Data Scientist, AI",-1,AstraZeneca,4.2,"Gaithersburg, MD",10000+ Employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+98,Environmental Data Scientist/Analytics,$63K - $117K (Glassdoor est.),Abt Associates,3.5,"Rockville, MD",1001 to 5000 Employees,1965,Company - Private,Research & Development,Business Services,$500 million to $1 billion (USD)
+99,"Data Scientist I, Product Analytics",$99K - $179K (Glassdoor est.),Tinder,-1,"San Francisco, CA",201 to 500 Employees,2012,Company - Public,Internet,Information Technology,Unknown / Non-Applicable
