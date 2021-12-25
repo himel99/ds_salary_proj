@@ -1,4 +1,4 @@
-# Data Science Salary Estimator: Project Overview
+# Data Science Salary Estimator : Project Overview
 * Created a tool that estimates data science salaries (MAE ~ $ 6.3K) to help data scientists negotiate their income when they get a job.
 * Scraped over 100 job descriptions from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on Data Scientists/ Engineers.
@@ -19,7 +19,7 @@
 **Flask Productionization :** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 ## Web Scraping
-Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
+Tweaked the web scraper github repo (above) to scrape 100 job postings from glassdoor.com. With each job, we got the following:
 
 * Job title
 * Salary Estimate
